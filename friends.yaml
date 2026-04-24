@@ -1,4 +1,4 @@
-- name: Rimuru's Blog
+﻿- name: Rimuru's Blog
   url: https://blog.rimuru.work/
   # 博客图标地址，建议使用方形图标，尺寸不小于100x100像素。命名方式为博客域名.*，其中*为图标的文件格式，如png、jpg等。图标文件应放置在`public/icons/`目录下。域名中的点（.）应替换为下划线（_）。
   icon: icons/blog_rimuru_work.png
