@@ -1,6 +1,8 @@
 # Friend Flow Apply
 
-友链申请仓库。通过提交 PR 的方式申请添加友链。
+[friend-flow](https://github.com/AinzRimuru/friend-flow)（友链互助系统）的配置仓库，托管友链数据（`friends.yaml`）和图标资源（`icon/`）。
+
+通过提交 PR 的方式申请添加友链。
 
 ## 申请要求
 
@@ -32,4 +34,4 @@
 | `url` | 是 | 博客首页地址 |
 | `icon` | 是 | 图标文件路径，放置在 `icon/` 目录下 |
 | `description` | 是 | 一句话博客描述 |
-| `feedUrl` | 否 | RSS 订阅地址，默认为 `{url}/atom.xml` |
+| `feedUrl` | 否 | RSS 订阅地址，为空则自动拼接 `{url}/atom.xml` |
