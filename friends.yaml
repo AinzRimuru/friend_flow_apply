@@ -1,0 +1,13 @@
+- name: Rimuru's Blog
+  url: https://blog.rimuru.work/
+  # 博客图标地址，建议使用方形图标，尺寸不小于100x100像素。命名方式为博客域名.*，其中*为图标的文件格式，如png、jpg等。图标文件应放置在`public/icons/`目录下。域名中的点（.）应替换为下划线（_）。
+  icon: icons/blog_rimuru_work.png
+  description: 分享 DevOps、AI 工具、Linux 运维及游戏攻略。
+  # atom.xml格式的RSS订阅地址，仅在地址不是`/atom.xml`时需要填写，正常情况下不需要填写。
+  # 下面的地址是示例地址，由于地址是`/atom.xml`，所以留空同样可以。
+  feedUrl: "https://blog.rimuru.work/atom.xml"
+- name: 龙星划空
+  url: https://blog.245179.xyz/
+  icon: icons/blog_245179.png
+  description: 人生近看是悲剧，远看是喜剧
+  feedUrl: ""
