@@ -35,3 +35,7 @@
 | `icon` | 是 | 图标文件路径，放置在 `icon/` 目录下 |
 | `description` | 是 | 一句话博客描述 |
 | `feedUrl` | 否 | RSS 订阅地址，为空则自动拼接 `{url}/atom.xml` |
+
+## 鸣谢
+
+感谢 [LINUX DO](https://linux.do) 社区的支持。
