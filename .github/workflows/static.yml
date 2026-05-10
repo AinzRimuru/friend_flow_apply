@@ -41,3 +41,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+      - name: Refresh config
+        run: curl -sS https://friend.rimuru.work/refresh-config
