@@ -42,4 +42,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
       - name: Refresh config
-        run: curl -sS https://friend.rimuru.work/refresh-config
+        run: curl -sSf https://friend.rimuru.work/api/refresh-config
