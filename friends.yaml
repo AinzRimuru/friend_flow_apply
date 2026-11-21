@@ -7,8 +7,8 @@
   # 下面的地址是示例地址，由于地址是`/atom.xml`，所以留空同样可以。
   feedUrl: "https://blog.rimuru.work/atom.xml"
 - name: 龙星划空
-  url: https://blog.245179.xyz/
-  icon: icons/blog_245179.png
+  url: https://furrity.pages.dev/
+  icon: icons/furrity_pages_dev.png
   description: 人生近看是悲剧，远看是喜剧
   feedUrl: ""
 - name: 未知文明
